@@ -83,8 +83,8 @@ body {
 }
 
 .logo-icon {
-    width: 100px;
-    height: 100px;
+    width: 645px;
+    height: 130px;
     filter: drop-shadow(var(--glow));
 }
 
